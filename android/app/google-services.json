@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "530016041380",
+    "project_id": "intaran-fashion",
+    "storage_bucket": "intaran-fashion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530016041380:android:6cf745b18f344692b5a931",
+        "android_client_info": {
+          "package_name": "com.intaranfashion.transaksi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530016041380-0qu9559bb9rvtl0qo5ep1rb5m41nbd4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intaranfashion.transaksi",
+            "certificate_hash": "66a97c8f107294364033e1080ed5e8ca33e90f9a"
+          }
+        },
+        {
+          "client_id": "530016041380-0qja3efgrb99adjuflrg51dbv6d336kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCgqcQAxtqNsOmdqFNLDzUtRptjohHQ4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530016041380-0qja3efgrb99adjuflrg51dbv6d336kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
